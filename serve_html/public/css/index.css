@@ -1,0 +1,13 @@
+body {
+    background-color: white;}  
+
+    img{
+         border-color: black;
+         border-width: 2px;
+         margin-right: 30px;
+         margin-left: 180px;
+         margin-top: 100px;
+         border-style: inset;  
+         padding: 10px;
+     }
+ 
